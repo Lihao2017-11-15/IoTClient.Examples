@@ -275,3 +275,4 @@ __pycache__/
 /IoTClient/IoTClient/IoTClient.xml
 /IoTServer/IoTServer/IoTServer.xml
 /packages
+/venv3.8.10
